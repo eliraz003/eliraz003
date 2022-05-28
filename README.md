@@ -9,9 +9,9 @@
 A calculator app written for iOS, using swift, to be a modern and simple calculator with history, and with currency and unit conversions.
 > I've included a README to allow to get started if you are interested in duplicating the project.
 
-[Fork](https://www.github.com/eliraz003/ios-calculator-app)
-[Download On App Store]()
-[Learn More](https://calculatooor-ios.web.app)
+[Fork](https://www.github.com/eliraz003/ios-calculator-app)<br>
+[Download On App Store]()<br>
+[Learn More](https://calculatooor-ios.web.app)<br>
 
 --- 
 #### Figma Layout Plugin
