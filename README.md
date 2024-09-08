@@ -20,7 +20,7 @@ A plugin built for the Figma design software that allowes the user to select a l
 > I am still in the process of creating a .README for this project, however there still is one that describes the basics. Feel free to explore around the codebase to provide contributions or to fork the project and make it your own!
 
 
-[Fork](https://www.github.com/eliraz003/Figma-Easygrid)<br>
+[Fork](https://www.github.com/elirazatia/Figma-Easygrid)<br>
 [Download On Figma](https://www.figma.com/community/plugin/1023805574372075411/(Easy)Grid)<br>
 [Learn More](https://easygrid-app.web.app)<br>
 
